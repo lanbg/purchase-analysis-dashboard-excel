@@ -82,12 +82,12 @@ The analysis identified:
 
 - Microsoft Excel
 - Pivot Tables
-- KPI Monitoring
-- Dynamic Charts
+- KPI Development
+- Dynamic Charts & Dashboards
 - Conditional Formatting
 - Pareto Analysis (ABC Curve)
-- Operational Analysis
-- Logistics Performance Evaluation
+- Operational & Logistics Analysis
+- Business Data Visualization
 
 ---
 
